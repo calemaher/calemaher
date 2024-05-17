@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on building a Transportation Maintenance Software
 - 📫 How to reach me, just shoot me a message!
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have a Great Dane named Scooby!
 
 <!---
