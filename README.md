@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @calemaher
 - 👀 I’m interested in hiking, the gym, and board games
 - 🌱 I’m currently learning Java
-- 📫 How to reach me, just shoot me a message!
+- 📫 How to reach me, find me on LinkedIn!
 - ⚡ Fun fact: I have a Great Dane named Scooby!
 
 <!---
